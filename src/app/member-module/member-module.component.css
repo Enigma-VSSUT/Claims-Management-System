@@ -1,0 +1,114 @@
+
+
+.bg-blue{
+    color:white;
+    background-color: #1A237E;
+    
+    
+}
+
+.nav-link:hover{
+    text-decoration: white;
+}
+.nav1{
+   
+    color: white;
+    text-decoration: none;
+    
+    padding-left: 10px;
+}
+
+.nav2{
+   
+    color: white;
+    text-decoration: none;
+   
+    padding-left: 20px;
+    
+    
+}
+
+.nav3{
+    width: 100%;
+    float: right;
+    
+}
+
+table{
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 35%;
+  
+}
+.footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+
+  }
+  .fottext{
+      padding-left: 20px;
+  }
+#f{
+    color: white;
+  }
+button{
+    background-color: #1A237E;
+    color: white;
+    margin-left: 34%;
+    min-width: 20%;
+    text-align: center;
+}
+
+.card{
+    margin-top: 20px;
+}
+
+.divbtn{
+    
+    position: fixed;
+}
+
+
+.clr{
+    color: #1A237E;
+    font-size: large;
+    overflow: visible;
+}
+
+.clr1{
+    background-color: #1A237E;
+}
+
+/* For dropdown */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color:#1A237E;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+  /* Change color of dropdown links on hover */
+
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+    border-radius: 5px;        }
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color:white;}
+
+
+     
